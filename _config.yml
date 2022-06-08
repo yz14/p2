@@ -7,7 +7,7 @@ baseurl: "/tm6"
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: '<img src="https://pic3.zhimg.com/80/v2-610c797a92a5db443d2736061c2299a6_720w.jpg" align=center/>' #/siteicon.png
 description: Jekyll template with example content for a not-for-profit organisation.
 author:
   name:
