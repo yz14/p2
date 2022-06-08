@@ -2,8 +2,8 @@
 # Site
 
 title: Cause Template
-url: https://clean-oryx.cloudvent.net
-baseurl:
+url: https://yz14.github.io/tm6
+baseurl: "/tm6"
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
