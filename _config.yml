@@ -1,8 +1,8 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/tm6" # the subpath of your site, e.g. /blog
-url: "https://yz14.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: YZ
+description: homepage
+baseurl: "/p2"
+url: "https://yz14.github.io"
 
 # User settings
 username: yuanzhen
